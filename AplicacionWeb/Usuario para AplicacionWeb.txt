@@ -1,0 +1,4 @@
+usuario= andres@hotmail.com
+pass= 1234
+
+Sino desde la base de datos crear un nuevo administrador.
